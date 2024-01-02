@@ -3,6 +3,16 @@ Hell in this small project i will learn about the java graphical user interface 
 
 I am going to code here ... 
 
-DAY 1 of 2024 { I have learn to make buttons on java swing 
+DAY 1 of 2024 { 
+I have learn to make buttons on java swing 
 and now i am going ot learn how to use those buttons to make somthing useful. Tomorrow i am going 
-to learn how to use button and i want to add a bar to the top os the window . }
+to learn how to use button and i want to add a bar to the top os the window .
+}
+
+
+Day 2 of 2024 {
+I have made some changes in button.java , i basically moved all the button down , i am thinking of making a panel . 
+and i have created a start page .java which the main java file i guess beacuse it will start the application ..
+towmorrow i want to add some tob bar and bottom panell ...
+
+}
