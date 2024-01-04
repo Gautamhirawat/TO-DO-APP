@@ -16,3 +16,9 @@ and i have created a start page .java which the main java file i guess beacuse i
 towmorrow i want to add some tob bar and bottom panell ...
 
 }
+
+Day 3 of 2024{
+today i created TodoApp.java it is a new file i have created and now both startpage and button.java are not using anymore .
+i have created and merged all of that code in this TodoApp.java and in this i have created some basic function like menu bar , a title box , 
+a box for TODO things but i have to change it tommorow and the save button is not working ... i should change it tommorow .
+}
